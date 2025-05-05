@@ -1,0 +1,106 @@
+{
+  "papers": [
+    {
+      "id": "P1",
+      "title": "A Gentle Introduction to Conformal Prediction and Distribution-Free Uncertainty Quantification",
+      "authors": "Angelopoulos & Bates",
+      "year": 2022,
+      "doi": "10.48550/arXiv.2202.07650",
+      "tags": [
+        "Foundational CP Methods"
+      ]
+    },
+    {
+      "id": "P2",
+      "title": "Distribution-Free Conformal Prediction for Ordinal Classification",
+      "authors": "Chakraborty et al.",
+      "year": 2024,
+      "doi": "10.48550/arXiv.2404.19472",
+      "tags": [
+        "Foundational CP Methods",
+        "Structured Outputs"
+      ]
+    },
+    {
+      "id": "P3",
+      "title": "Mahalanobis Distance-Based Conformal Prediction for Multi-Label Classification",
+      "authors": "Katsios & Papadopoulos",
+      "year": 2024,
+      "doi": "10.48550/arXiv.2307.01408",
+      "tags": [
+        "CP in MLC",
+        "Diversity-Aware CP"
+      ]
+    },
+    {
+      "id": "P4",
+      "title": "Tree-Based Nonconformity Measures for Multi-Label Conformal Prediction",
+      "authors": "Tyagi & Guo",
+      "year": 2024,
+      "doi": "10.48550/arXiv.2307.16360",
+      "tags": [
+        "CP in MLC"
+      ]
+    },
+    {
+      "id": "P5",
+      "title": "A Deep Learning Survey on Multi-Label Classification",
+      "authors": "Tarekegn et al.",
+      "year": 2024,
+      "doi": "10.48550/arXiv.2401.16549",
+      "tags": [
+        "CP in MLC"
+      ]
+    },
+    {
+      "id": "P6",
+      "title": "Conformal Structured Prediction",
+      "authors": "Bastani et al.",
+      "year": 2025,
+      "doi": "10.48550/arXiv.2404.19472",
+      "tags": [
+        "Structured Outputs"
+      ]
+    },
+    {
+      "id": "P7",
+      "title": "Probabilistically Robust Conformal Prediction",
+      "authors": "Chakraborty et al.",
+      "year": 2023,
+      "doi": "10.48550/arXiv.2208.02814",
+      "tags": [
+        "Structured Outputs"
+      ]
+    },
+    {
+      "id": "P8",
+      "title": "Multi-Dimensional Conformal Prediction",
+      "authors": "Tawachi et al.",
+      "year": 2025,
+      "doi": "10.48550/arXiv.7517.2025",
+      "tags": [
+        "Diversity-Aware CP"
+      ]
+    },
+    {
+      "id": "P9",
+      "title": "Conformal Prediction with Limited False Positives",
+      "authors": "Fisch et al.",
+      "year": 2022,
+      "doi": "10.48550/arXiv.5291.2022",
+      "tags": [
+        "Diversity-Aware CP"
+      ]
+    },
+    {
+      "id": "P10",
+      "title": "Conformal Risk Control",
+      "authors": "Angelopoulos et al.",
+      "year": 2023,
+      "doi": "10.48550/arXiv.2208.02814",
+      "tags": [
+        "Foundational CP Methods"
+      ]
+    }
+  ]
+}
